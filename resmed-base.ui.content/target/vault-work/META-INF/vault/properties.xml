@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>resmed-base - UI content</comment>
+<entry key="createdBy">10608107</entry>
+<entry key="name">resmed-base.ui.content</entry>
+<entry key="created">2019-05-20T08:47:18.272+0530</entry>
+<entry key="groupId">resmed-base</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">resmed-base</entry>
+<entry key="description">UI content package for resmed-base</entry>
+<entry key="artifactId">resmed-base.ui.content</entry>
+<entry key="path">/etc/packages/resmed-base/resmed-base.ui.content.zip</entry>
+</properties>

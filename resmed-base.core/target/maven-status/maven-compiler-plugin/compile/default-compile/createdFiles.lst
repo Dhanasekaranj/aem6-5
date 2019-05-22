@@ -1,0 +1,7 @@
+com\aem\resmed\core\models\HelloWorldModel.class
+com\aem\resmed\core\servlets\SimpleServlet.class
+com\aem\resmed\core\filters\LoggingFilter.class
+com\aem\resmed\core\package-info.class
+com\aem\resmed\core\schedulers\SimpleScheduledTask.class
+com\aem\resmed\core\listeners\SimpleResourceListener.class
+com\aem\resmed\core\schedulers\SimpleScheduledTask$Config.class
